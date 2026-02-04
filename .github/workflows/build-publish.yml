@@ -10,9 +10,9 @@ jobs:
   build:
      runs-on: ubuntu-latest
      env:
-      OIDC_AUDIENCE: 'jfrog-github'
-      OIDC_PROVIDER: 'github'
-      PLATFORM_REPO: 'eks-npm'
+      OIDC_AUDIENCE: 'pruthvirb'
+      OIDC_PROVIDER: 'pruthvirb'
+      PLATFORM_REPO: 'pruthvi1-npm'
      defaults:
       run:
         working-directory: ./package
