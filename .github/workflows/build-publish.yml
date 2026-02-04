@@ -11,7 +11,7 @@ jobs:
      runs-on: ubuntu-latest
      env:
       OIDC_AUDIENCE: 'pruthvirb'
-      OIDC_PROVIDER: 'pruthvirb'
+      OIDC_PROVIDER: 'pruthvi'
       PLATFORM_REPO: 'pruthvi1-npm'
      defaults:
       run:
